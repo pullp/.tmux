@@ -89,7 +89,7 @@ Troubleshooting
 Features
 --------
 
- - `C-a` acts as secondary prefix, while keeping default `C-b` prefix
+ - `C-j` acts as prefix
  - visual theme inspired by [Powerline][]
  - [maximize any pane to a new window with `<prefix> +`][maximize-pane]
  - SSH aware username and hostname status line information
